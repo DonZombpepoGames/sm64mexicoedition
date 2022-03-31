@@ -9,3 +9,5 @@ IF YOU HAVE TROUBLES CONTACT ME IN DISCORD: El Zombpepo que Araña#3955
 ENJOY THE TEXTURE!!!!
 
 If you have suggestions feel free to leave your comments :D
+
+If you want to collaborate with textures contact me by discord
