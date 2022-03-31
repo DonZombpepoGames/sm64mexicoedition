@@ -7,3 +7,5 @@ build using sm64pcbuilder2, before build click the add custom textures/sounds bu
 
 IF YOU HAVE TROUBLES CONTACT ME IN DISCORD: El Zombpepo que Araña#3955
 ENJOY THE TEXTURE!!!!
+
+If you have suggestions feel free to leave your comments :D
