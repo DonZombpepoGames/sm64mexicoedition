@@ -5,7 +5,7 @@ For SM64Plus; extract the zip, and copy the gfx folder into AppData/Local/SM64Pl
 For Sm64ex, sm64ex coop, render96ex and other sm64 repos that supports custom textures:
 build using sm64pcbuilder2, before build click the add custom textures/sounds button, and select the sm64 third world edition zip, then go to options and select external data, then build
 
-IF YOU HAVE TROUBLES CONTACT ME IN DISCORD: El Zombpepo que Araña#3955
+IF YOU HAVE TROUBLES CONTACT ME IN DISCORD: Zombpepo Chistoso#3955
 ENJOY THE TEXTURE!!!!
 
 If you have suggestions feel free to leave your comments :D
