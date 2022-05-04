@@ -1,13 +1,10 @@
-# sm64thirdworld
-A texture pack for sm64ex-nightly, sm64ex-coop unstable, Render96ex-alpha, and other sm64 repos that support custom textures
-How to apply:
-For SM64Plus; extract the zip, and copy the gfx folder into AppData/Local/SM64Plus and click OK when the overwrite window appears
-For Sm64ex, sm64ex coop, render96ex and other sm64 repos that supports custom textures:
-build using sm64pcbuilder2, before build click the add custom textures/sounds button, and select the sm64 third world edition zip, then go to options and select external data, then build
+SM64 Mexican Edition
+a mod of sm64 but mexican style!, enjoy.
 
-IF YOU HAVE TROUBLES CONTACT ME IN DISCORD: Zombpepo Chistoso#3955
-ENJOY THE TEXTURE!!!!
+How to install
+extract the gfx zip and drop the gfx folder inside to your repo, compile with external data then done!
 
-If you have suggestions feel free to leave your comments :D
+Developer
+El Zombpepo Chistoso#3955
 
-If you want to collaborate with textures contact me by discord
+Read me better made by Olaia64#1043.
